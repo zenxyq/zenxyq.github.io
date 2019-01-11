@@ -1,3 +1,4 @@
+alert("ОЛЕГ ПИДР =))");
 var 
     game     =     document.getElementsByClassName('game'),
     list     =     [],
